@@ -18,8 +18,6 @@
 
 ⚡ knowledge is power. Be a master of it.
 
-Languages and Tools:
-bootstrap c cplusplus css3 html5 java javascript mongodb mysql nodejs php python react
 <!---
 deepeshc1998/deepeshc1998 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
