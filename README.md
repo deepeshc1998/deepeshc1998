@@ -1,4 +1,6 @@
-- 👋 Hi, I’m @deepeshc1998
+                                                                DEEPESH c
+
+👋 Hi, I’m @deepeshc1998
 
 🔭 I'm currently working on Full-Stack Web Developement
 
